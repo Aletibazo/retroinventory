@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+poetry.lock
+
+# Node
+node_modules/
+dist/
+build/
+*.log
+.env.local
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+*.db
